@@ -1,0 +1,71 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\pose\\TNN\\examples\\android",
+      "sdkFolder": "D:\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\pose\\TNN\\examples\\android\\demo\\build\\intermediates",
+      "gradleModulePathName": ":demo",
+      "moduleRootFolder": "E:\\pose\\TNN\\examples\\android\\demo",
+      "makeFile": "E:\\pose\\TNN\\examples\\android\\demo\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\pose\\TNN\\examples\\android\\.cxx",
+      "cxxFolder": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx",
+      "ndkFolder": "D:\\Android\\Sdk\\ndk\\19.2.5345600",
+      "ndkVersion": "19.2.5345600",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11 -frtti -fexceptions -lz -DANDROID_ARM_NEON\u003dON -mfpu\u003dneon"
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\pose\\TNN\\examples\\android\\demo\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\pose\\TNN\\examples\\android\\demo\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "E:\\pose\\TNN\\examples\\android\\demo\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

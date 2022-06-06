@@ -1,0 +1,2 @@
+E:/pose/TNN/examples/android/demo
+E:/pose/TNN

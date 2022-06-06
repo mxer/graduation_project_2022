@@ -1,0 +1,54 @@
+-- Check for working C compiler: D:/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+-- Check for working C compiler: D:/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: D:/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+-- Check for working CXX compiler: D:/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The ASM compiler identification is Clang
+-- Found assembler: D:/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+-- >>>>>>>>>>>>>
+-- TNN BUILD INFO:
+-- 	System: Android
+-- 	Processor: aarch64
+-- 	Cpu:	ON
+-- 	X86:	OFF
+-- 	Arm:	ON
+-- 	Arm82:	ON
+-- 	Metal:	OFF
+-- 	OpenCL:	ON
+-- 	CUDA:	OFF
+-- 	DSP:	OFF
+-- 	Atlas:	OFF
+-- 	TensorRT:	OFF
+-- 	AppleNPU:	OFF
+-- 	HuaweiNPU:	OFF
+-- 	RKNPU:	OFF
+-- 	OpenVINO:	OFF
+-- 	OpenMP:	OFF
+-- 	TEST:	OFF
+-- 	--Unit Test:	OFF
+-- 	Quantization:	OFF
+-- 	ModelCheck:	OFF
+-- 	DEBUG:	
+-- 	PROFILE:	OFF
+-- 	BENCHMARK:	OFF
+-- 	BENCHMARK Layer:	OFF
+-- 	Model Converter:	OFF
+-- 	ONNX2TNN Converter:	OFF
+-- 	TNN2MEM:	OFF
+-- 	BENCHMARK Test Lib:	OFF
+-- 	Dynamic Range Quantization:	OFF
+-- Found PythonInterp: D:/Python39/python.exe (found version "3.9.7") 
+Generate OpenCL Source done !!! 
+
+-- [31m[WARNING] TNN is built as a static library, link it with option -Wl,--whole-archive tnn -Wl,--no-whole-archive[m
+-- Build TNN OpenCL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/pose/TNN/examples/android/demo/.cxx/cmake/debug/arm64-v8a

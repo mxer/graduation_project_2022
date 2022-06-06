@@ -1,0 +1,45 @@
+{
+  "ndkFolder": "D:\\Android\\Sdk\\ndk\\19.2.5345600",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is D:\\Android\\Sdk\\ndk\\19.2.5345600"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is D:\\Android\\Sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering D:\\Android\\Sdk\\ndk\\19.2.5345600 by ndk.dir"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering D:\\Android\\Sdk\\ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering D:\\Android\\Sdk\\ndk\\18.1.5063045 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering D:\\Android\\Sdk\\ndk\\19.2.5345600 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected D:\\Android\\Sdk\\ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested ndk.dir (D:\\Android\\Sdk\\ndk\\19.2.5345600) which has version 19.2.5345600"
+    }
+  ]
+}

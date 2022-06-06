@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\pose\\TNN\\examples\\android\\demo\\CMakeLists.txt",
+    "E:\\pose\\TNN\\CMakeLists.txt",
+    "E:\\pose\\TNN\\source\\tnn\\device\\cpu\\CMakeLists.txt",
+    "E:\\pose\\TNN\\source\\tnn\\device\\arm\\CMakeLists.txt",
+    "E:\\pose\\TNN\\source\\tnn\\device\\arm\\acc\\compute_arm82\\CMakeLists.txt",
+    "E:\\pose\\TNN\\source\\tnn\\device\\opencl\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "TNN-Release-arm64-v8a": {
+      "artifactName": "TNN",
+      "buildCommand": "D:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a --target TNN",
+      "abi": "arm64-v8a",
+      "output": "E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\build\\libTNN.a"
+    },
+    "tnn_wrapper-Release-arm64-v8a": {
+      "artifactName": "tnn_wrapper",
+      "buildCommand": "D:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\pose\\TNN\\examples\\android\\demo\\.cxx\\cmake\\debug\\arm64-v8a --target tnn_wrapper",
+      "abi": "arm64-v8a",
+      "output": "E:\\pose\\TNN\\examples\\android\\demo\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libtnn_wrapper.so"
+    }
+  }
+}
